@@ -164,16 +164,6 @@ sat-lima-storytelling/
 | Tipografía | Bricolage Grotesque + IBM Plex Sans | Títulos con carácter y texto numérico legible (cifras tabulares). |
 | Procesamiento | **Python + pandas** | Limpieza, cruce con el RNT y agregaciones. |
 
-**Cómo ejecutar**
-
-```bash
-npm install
-npm run dev      # desarrollo
-npm run build    # verificación de tipos + build de producción
-```
-
-Los JSON incluidos en `public/data/` (salvo el catálogo) son **datos sintéticos de muestra**. Reemplázalos por los generados por tu pipeline.
-
 ---
 
 ## 5. Decisiones de storytelling
